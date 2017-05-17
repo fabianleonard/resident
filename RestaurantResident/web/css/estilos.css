@@ -1,0 +1,53 @@
+
+
+
+#menuentrada{
+    color:green;
+}
+h2 {color:orange}
+#item{
+    color: green
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8 px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.titulo1{
+   
+    color: maroon;
+}
+#montopagar{
+    text-align:left;
+}
+#detallepagar{
+    text-align: left;
+}
+
+
+#encabezado{
+    background-color: red;
+}
+
+#cajitas{
+    width: 15%;
+    float: contour;
+    margin: auto;
+    border-color: graytext;
+    border-bottom-style: ridge;
+}
+#buscador{
+    color: darkred;
+}
